@@ -27,7 +27,7 @@ func GetDatabase() *Movies {
 	var movies Movies
 	err = json.Unmarshal(file, &movies)
 	if err != nil {
-		log.Fatal("An error happened while parsing the movies file.", err)
+		log.Fatal("An error happened while parsing the movies file.")
 	}
 	return &movies
 
