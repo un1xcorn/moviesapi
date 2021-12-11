@@ -1,4 +1,4 @@
-# MoviesAPI ![Code Quality Score](https://www.code-inspector.com/project/29263/status/svg)
+# MoviesAPI
 
 ## What is MoviesAPI ?
 
